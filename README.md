@@ -1,2 +1,4 @@
 # superfly
-learning github tutorial. watch my awesome progress. 
+Library Carpentries training.  Learning GitHub tutorial
+
+Trying to break permissions.
